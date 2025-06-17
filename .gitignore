@@ -1,0 +1,4 @@
+.env
+.conda/
+instructions/
+firms_data.db
